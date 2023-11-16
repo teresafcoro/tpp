@@ -1,0 +1,14 @@
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 7\lab07\linq\bin\Debug\net5.0\linq.exe
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 7\lab07\linq\bin\Debug\net5.0\linq.deps.json
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 7\lab07\linq\bin\Debug\net5.0\linq.runtimeconfig.json
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 7\lab07\linq\bin\Debug\net5.0\linq.runtimeconfig.dev.json
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 7\lab07\linq\bin\Debug\net5.0\linq.dll
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 7\lab07\linq\bin\Debug\net5.0\linq.pdb
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 7\lab07\linq\obj\Debug\net5.0\linq.csproj.AssemblyReference.cache
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 7\lab07\linq\obj\Debug\net5.0\linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 7\lab07\linq\obj\Debug\net5.0\linq.csproj.CoreCompileInputs.cache
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 7\lab07\linq\obj\Debug\net5.0\linq.dll
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 7\lab07\linq\obj\Debug\net5.0\refint\linq.dll
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 7\lab07\linq\obj\Debug\net5.0\linq.pdb
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 7\lab07\linq\obj\Debug\net5.0\linq.genruntimeconfig.cache
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 7\lab07\linq\obj\Debug\net5.0\ref\linq.dll
