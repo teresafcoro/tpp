@@ -1,0 +1,16 @@
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 9\TareaObligatoria9\Tarea9\bin\Debug\Practica9.exe.config
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 9\TareaObligatoria9\Tarea9\bin\Debug\Practica9.exe
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 9\TareaObligatoria9\Tarea9\bin\Debug\Practica9.pdb
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 9\TareaObligatoria9\Tarea9\obj\Debug\Tarea9.csproj.AssemblyReference.cache
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 9\TareaObligatoria9\Tarea9\obj\Debug\Tarea9.csproj.SuggestedBindingRedirects.cache
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 9\TareaObligatoria9\Tarea9\obj\Debug\Tarea9.csproj.CoreCompileInputs.cache
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 9\TareaObligatoria9\Tarea9\obj\Debug\Practica9.exe
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 9\TareaObligatoria9\Tarea9\obj\Debug\Practica9.pdb
+C:\Users\mayte\Desktop\TareaObligatoria9\Tarea9\bin\Debug\Practica9.exe.config
+C:\Users\mayte\Desktop\TareaObligatoria9\Tarea9\bin\Debug\Practica9.exe
+C:\Users\mayte\Desktop\TareaObligatoria9\Tarea9\bin\Debug\Practica9.pdb
+C:\Users\mayte\Desktop\TareaObligatoria9\Tarea9\obj\Debug\Tarea9.csproj.AssemblyReference.cache
+C:\Users\mayte\Desktop\TareaObligatoria9\Tarea9\obj\Debug\Tarea9.csproj.SuggestedBindingRedirects.cache
+C:\Users\mayte\Desktop\TareaObligatoria9\Tarea9\obj\Debug\Tarea9.csproj.CoreCompileInputs.cache
+C:\Users\mayte\Desktop\TareaObligatoria9\Tarea9\obj\Debug\Practica9.exe
+C:\Users\mayte\Desktop\TareaObligatoria9\Tarea9\obj\Debug\Practica9.pdb
