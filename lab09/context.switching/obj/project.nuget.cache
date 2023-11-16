@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WB9jSGAIBcH6HT0iw/fBNgO9dqNYngqUa30rjF5hmaXVjq43TxuhYWcJ2P3o92iwelwQeLlyeLgafhXlOfE7Rg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mayte\\Documents\\UniOvi\\Tecnologías y Paradigmas de la Programación\\Prácticas\\Práctica 9\\lab09\\context.switching\\context.switching.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mayte\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\mayte\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
