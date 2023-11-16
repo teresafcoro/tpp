@@ -1,0 +1,14 @@
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 9\practica9\vector.modulus\bin\Debug\net5.0\vector.modulus.exe
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 9\practica9\vector.modulus\bin\Debug\net5.0\vector.modulus.deps.json
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 9\practica9\vector.modulus\bin\Debug\net5.0\vector.modulus.runtimeconfig.json
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 9\practica9\vector.modulus\bin\Debug\net5.0\vector.modulus.runtimeconfig.dev.json
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 9\practica9\vector.modulus\bin\Debug\net5.0\vector.modulus.dll
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 9\practica9\vector.modulus\bin\Debug\net5.0\vector.modulus.pdb
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 9\practica9\vector.modulus\obj\Debug\net5.0\vector.modulus.csproj.AssemblyReference.cache
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 9\practica9\vector.modulus\obj\Debug\net5.0\vector.modulus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 9\practica9\vector.modulus\obj\Debug\net5.0\vector.modulus.csproj.CoreCompileInputs.cache
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 9\practica9\vector.modulus\obj\Debug\net5.0\vector.modulus.dll
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 9\practica9\vector.modulus\obj\Debug\net5.0\refint\vector.modulus.dll
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 9\practica9\vector.modulus\obj\Debug\net5.0\vector.modulus.pdb
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 9\practica9\vector.modulus\obj\Debug\net5.0\vector.modulus.genruntimeconfig.cache
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 9\practica9\vector.modulus\obj\Debug\net5.0\ref\vector.modulus.dll

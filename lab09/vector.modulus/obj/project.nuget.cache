@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "n0glKFMe5g78lntvqisAEZ20EKyQ8RwcjpbxpVbL9bxFcOaBHnMQbzVYc3QZEwW3qTwmISkgmMuacZlwFcP3dg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mayte\\Documents\\UniOvi\\Tecnologías y Paradigmas de la Programación\\Prácticas\\Práctica 9\\lab09\\vector.modulus\\vector.modulus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mayte\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\mayte\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

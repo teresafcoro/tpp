@@ -1,0 +1,14 @@
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 9\practica9\thread.creation\bin\Debug\net5.0\thread.creation.exe
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 9\practica9\thread.creation\bin\Debug\net5.0\thread.creation.deps.json
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 9\practica9\thread.creation\bin\Debug\net5.0\thread.creation.runtimeconfig.json
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 9\practica9\thread.creation\bin\Debug\net5.0\thread.creation.runtimeconfig.dev.json
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 9\practica9\thread.creation\bin\Debug\net5.0\thread.creation.dll
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 9\practica9\thread.creation\bin\Debug\net5.0\thread.creation.pdb
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 9\practica9\thread.creation\obj\Debug\net5.0\thread.creation.csproj.AssemblyReference.cache
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 9\practica9\thread.creation\obj\Debug\net5.0\thread.creation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 9\practica9\thread.creation\obj\Debug\net5.0\thread.creation.csproj.CoreCompileInputs.cache
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 9\practica9\thread.creation\obj\Debug\net5.0\thread.creation.dll
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 9\practica9\thread.creation\obj\Debug\net5.0\refint\thread.creation.dll
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 9\practica9\thread.creation\obj\Debug\net5.0\thread.creation.pdb
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 9\practica9\thread.creation\obj\Debug\net5.0\thread.creation.genruntimeconfig.cache
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 9\practica9\thread.creation\obj\Debug\net5.0\ref\thread.creation.dll
