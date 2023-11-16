@@ -1,0 +1,16 @@
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 8\lab8\model\bin\Debug\netstandard2.0\model.deps.json
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 8\lab8\model\bin\Debug\netstandard2.0\model.dll
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 8\lab8\model\bin\Debug\netstandard2.0\model.pdb
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 8\lab8\model\obj\Debug\netstandard2.0\model.csproj.AssemblyReference.cache
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 8\lab8\model\obj\Debug\netstandard2.0\model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 8\lab8\model\obj\Debug\netstandard2.0\model.csproj.CoreCompileInputs.cache
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 8\lab8\model\obj\Debug\netstandard2.0\model.dll
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 8\lab8\model\obj\Debug\netstandard2.0\model.pdb
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 8\lab8\model\bin\Debug\netstandard2.0\model.deps.json
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 8\lab8\model\bin\Debug\netstandard2.0\model.dll
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 8\lab8\model\bin\Debug\netstandard2.0\model.pdb
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 8\lab8\model\obj\Debug\netstandard2.0\model.csproj.AssemblyReference.cache
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 8\lab8\model\obj\Debug\netstandard2.0\model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 8\lab8\model\obj\Debug\netstandard2.0\model.csproj.CoreCompileInputs.cache
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 8\lab8\model\obj\Debug\netstandard2.0\model.dll
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 8\lab8\model\obj\Debug\netstandard2.0\model.pdb
