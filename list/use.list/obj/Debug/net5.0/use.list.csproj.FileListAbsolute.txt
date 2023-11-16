@@ -1,0 +1,114 @@
+C:\Users\mayte\Downloads\list\use.list\bin\Debug\net5.0\use.list.exe
+C:\Users\mayte\Downloads\list\use.list\bin\Debug\net5.0\use.list.deps.json
+C:\Users\mayte\Downloads\list\use.list\bin\Debug\net5.0\use.list.runtimeconfig.json
+C:\Users\mayte\Downloads\list\use.list\bin\Debug\net5.0\use.list.runtimeconfig.dev.json
+C:\Users\mayte\Downloads\list\use.list\bin\Debug\net5.0\use.list.dll
+C:\Users\mayte\Downloads\list\use.list\bin\Debug\net5.0\use.list.pdb
+C:\Users\mayte\Downloads\list\use.list\bin\Debug\net5.0\list.dll
+C:\Users\mayte\Downloads\list\use.list\bin\Debug\net5.0\list.pdb
+C:\Users\mayte\Downloads\list\use.list\obj\Debug\net5.0\use.list.csproj.AssemblyReference.cache
+C:\Users\mayte\Downloads\list\use.list\obj\Debug\net5.0\use.list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayte\Downloads\list\use.list\obj\Debug\net5.0\use.list.AssemblyInfoInputs.cache
+C:\Users\mayte\Downloads\list\use.list\obj\Debug\net5.0\use.list.AssemblyInfo.cs
+C:\Users\mayte\Downloads\list\use.list\obj\Debug\net5.0\use.list.csproj.CoreCompileInputs.cache
+C:\Users\mayte\Downloads\list\use.list\obj\Debug\net5.0\use.list.csproj.CopyComplete
+C:\Users\mayte\Downloads\list\use.list\obj\Debug\net5.0\use.list.dll
+C:\Users\mayte\Downloads\list\use.list\obj\Debug\net5.0\refint\use.list.dll
+C:\Users\mayte\Downloads\list\use.list\obj\Debug\net5.0\use.list.pdb
+C:\Users\mayte\Downloads\list\use.list\obj\Debug\net5.0\use.list.genruntimeconfig.cache
+C:\Users\mayte\Downloads\list\use.list\obj\Debug\net5.0\ref\use.list.dll
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 2\list\use.list\bin\Debug\net5.0\use.list.exe
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 2\list\use.list\bin\Debug\net5.0\use.list.deps.json
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 2\list\use.list\bin\Debug\net5.0\use.list.runtimeconfig.json
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 2\list\use.list\bin\Debug\net5.0\use.list.runtimeconfig.dev.json
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 2\list\use.list\bin\Debug\net5.0\use.list.dll
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 2\list\use.list\bin\Debug\net5.0\use.list.pdb
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 2\list\use.list\bin\Debug\net5.0\list.dll
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 2\list\use.list\bin\Debug\net5.0\list.pdb
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 2\list\use.list\obj\Debug\net5.0\use.list.csproj.AssemblyReference.cache
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 2\list\use.list\obj\Debug\net5.0\use.list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 2\list\use.list\obj\Debug\net5.0\use.list.AssemblyInfoInputs.cache
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 2\list\use.list\obj\Debug\net5.0\use.list.AssemblyInfo.cs
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 2\list\use.list\obj\Debug\net5.0\use.list.csproj.CoreCompileInputs.cache
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 2\list\use.list\obj\Debug\net5.0\use.list.csproj.CopyComplete
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 2\list\use.list\obj\Debug\net5.0\use.list.dll
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 2\list\use.list\obj\Debug\net5.0\refint\use.list.dll
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 2\list\use.list\obj\Debug\net5.0\use.list.pdb
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 2\list\use.list\obj\Debug\net5.0\use.list.genruntimeconfig.cache
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 2\list\use.list\obj\Debug\net5.0\ref\use.list.dll
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 3\list\use.list\bin\Debug\net5.0\use.list.exe
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 3\list\use.list\bin\Debug\net5.0\use.list.deps.json
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 3\list\use.list\bin\Debug\net5.0\use.list.runtimeconfig.json
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 3\list\use.list\bin\Debug\net5.0\use.list.runtimeconfig.dev.json
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 3\list\use.list\bin\Debug\net5.0\use.list.dll
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 3\list\use.list\bin\Debug\net5.0\use.list.pdb
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 3\list\use.list\bin\Debug\net5.0\list.dll
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 3\list\use.list\bin\Debug\net5.0\list.pdb
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 3\list\use.list\obj\Debug\net5.0\use.list.csproj.AssemblyReference.cache
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 3\list\use.list\obj\Debug\net5.0\use.list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 3\list\use.list\obj\Debug\net5.0\use.list.AssemblyInfoInputs.cache
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 3\list\use.list\obj\Debug\net5.0\use.list.AssemblyInfo.cs
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 3\list\use.list\obj\Debug\net5.0\use.list.csproj.CoreCompileInputs.cache
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 3\list\use.list\obj\Debug\net5.0\use.list.csproj.CopyComplete
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 3\list\use.list\obj\Debug\net5.0\use.list.dll
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 3\list\use.list\obj\Debug\net5.0\refint\use.list.dll
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 3\list\use.list\obj\Debug\net5.0\use.list.pdb
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 3\list\use.list\obj\Debug\net5.0\use.list.genruntimeconfig.cache
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 3\list\use.list\obj\Debug\net5.0\ref\use.list.dll
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 4\list\use.list\bin\Debug\net5.0\use.list.exe
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 4\list\use.list\bin\Debug\net5.0\use.list.deps.json
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 4\list\use.list\bin\Debug\net5.0\use.list.runtimeconfig.json
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 4\list\use.list\bin\Debug\net5.0\use.list.runtimeconfig.dev.json
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 4\list\use.list\bin\Debug\net5.0\use.list.dll
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 4\list\use.list\bin\Debug\net5.0\use.list.pdb
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 4\list\use.list\bin\Debug\net5.0\list.dll
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 4\list\use.list\bin\Debug\net5.0\list.pdb
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 4\list\use.list\obj\Debug\net5.0\use.list.csproj.AssemblyReference.cache
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 4\list\use.list\obj\Debug\net5.0\use.list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 4\list\use.list\obj\Debug\net5.0\use.list.AssemblyInfoInputs.cache
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 4\list\use.list\obj\Debug\net5.0\use.list.AssemblyInfo.cs
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 4\list\use.list\obj\Debug\net5.0\use.list.csproj.CoreCompileInputs.cache
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 4\list\use.list\obj\Debug\net5.0\use.list.csproj.CopyComplete
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 4\list\use.list\obj\Debug\net5.0\use.list.dll
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 4\list\use.list\obj\Debug\net5.0\refint\use.list.dll
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 4\list\use.list\obj\Debug\net5.0\use.list.pdb
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 4\list\use.list\obj\Debug\net5.0\use.list.genruntimeconfig.cache
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 4\list\use.list\obj\Debug\net5.0\ref\use.list.dll
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 7\list\use.list\bin\Debug\net5.0\use.list.exe
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 7\list\use.list\bin\Debug\net5.0\use.list.deps.json
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 7\list\use.list\bin\Debug\net5.0\use.list.runtimeconfig.json
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 7\list\use.list\bin\Debug\net5.0\use.list.runtimeconfig.dev.json
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 7\list\use.list\bin\Debug\net5.0\use.list.dll
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 7\list\use.list\bin\Debug\net5.0\use.list.pdb
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 7\list\use.list\bin\Debug\net5.0\list.dll
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 7\list\use.list\bin\Debug\net5.0\list.pdb
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 7\list\use.list\obj\Debug\net5.0\use.list.csproj.AssemblyReference.cache
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 7\list\use.list\obj\Debug\net5.0\use.list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 7\list\use.list\obj\Debug\net5.0\use.list.AssemblyInfoInputs.cache
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 7\list\use.list\obj\Debug\net5.0\use.list.AssemblyInfo.cs
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 7\list\use.list\obj\Debug\net5.0\use.list.csproj.CoreCompileInputs.cache
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 7\list\use.list\obj\Debug\net5.0\use.list.csproj.CopyComplete
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 7\list\use.list\obj\Debug\net5.0\use.list.dll
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 7\list\use.list\obj\Debug\net5.0\refint\use.list.dll
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 7\list\use.list\obj\Debug\net5.0\use.list.pdb
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 7\list\use.list\obj\Debug\net5.0\use.list.genruntimeconfig.cache
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 7\list\use.list\obj\Debug\net5.0\ref\use.list.dll
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\list\use.list\bin\Debug\net5.0\use.list.exe
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\list\use.list\bin\Debug\net5.0\use.list.deps.json
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\list\use.list\bin\Debug\net5.0\use.list.runtimeconfig.json
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\list\use.list\bin\Debug\net5.0\use.list.runtimeconfig.dev.json
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\list\use.list\bin\Debug\net5.0\use.list.dll
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\list\use.list\bin\Debug\net5.0\use.list.pdb
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\list\use.list\bin\Debug\net5.0\list.dll
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\list\use.list\bin\Debug\net5.0\list.pdb
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\list\use.list\obj\Debug\net5.0\use.list.csproj.AssemblyReference.cache
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\list\use.list\obj\Debug\net5.0\use.list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\list\use.list\obj\Debug\net5.0\use.list.AssemblyInfoInputs.cache
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\list\use.list\obj\Debug\net5.0\use.list.AssemblyInfo.cs
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\list\use.list\obj\Debug\net5.0\use.list.csproj.CoreCompileInputs.cache
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\list\use.list\obj\Debug\net5.0\use.list.csproj.CopyComplete
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\list\use.list\obj\Debug\net5.0\use.list.dll
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\list\use.list\obj\Debug\net5.0\refint\use.list.dll
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\list\use.list\obj\Debug\net5.0\use.list.pdb
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\list\use.list\obj\Debug\net5.0\use.list.genruntimeconfig.cache
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\list\use.list\obj\Debug\net5.0\ref\use.list.dll
