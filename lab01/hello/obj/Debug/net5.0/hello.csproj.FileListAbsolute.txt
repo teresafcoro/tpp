@@ -1,0 +1,5 @@
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 1\lab01\hello\obj\Debug\net5.0\hello.csproj.AssemblyReference.cache
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 1\lab01\hello\obj\Debug\net5.0\hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 1\lab01\hello\obj\Debug\net5.0\hello.AssemblyInfoInputs.cache
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 1\lab01\hello\obj\Debug\net5.0\hello.AssemblyInfo.cs
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 1\lab01\hello\obj\Debug\net5.0\hello.csproj.CoreCompileInputs.cache

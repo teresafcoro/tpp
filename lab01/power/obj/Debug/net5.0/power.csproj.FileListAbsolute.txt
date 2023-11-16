@@ -1,0 +1,5 @@
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 1\lab01\power\obj\Debug\net5.0\power.csproj.AssemblyReference.cache
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 1\lab01\power\obj\Debug\net5.0\power.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 1\lab01\power\obj\Debug\net5.0\power.AssemblyInfoInputs.cache
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 1\lab01\power\obj\Debug\net5.0\power.AssemblyInfo.cs
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 1\lab01\power\obj\Debug\net5.0\power.csproj.CoreCompileInputs.cache
