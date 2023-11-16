@@ -1,0 +1,12 @@
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 3\material-practica3\practica3\algorithms\bin\Debug\netcoreapp3.1\algorithms.exe
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 3\material-practica3\practica3\algorithms\bin\Debug\netcoreapp3.1\algorithms.deps.json
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 3\material-practica3\practica3\algorithms\bin\Debug\netcoreapp3.1\algorithms.runtimeconfig.json
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 3\material-practica3\practica3\algorithms\bin\Debug\netcoreapp3.1\algorithms.runtimeconfig.dev.json
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 3\material-practica3\practica3\algorithms\bin\Debug\netcoreapp3.1\algorithms.dll
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 3\material-practica3\practica3\algorithms\bin\Debug\netcoreapp3.1\algorithms.pdb
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 3\material-practica3\practica3\algorithms\obj\Debug\netcoreapp3.1\algorithms.csproj.AssemblyReference.cache
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 3\material-practica3\practica3\algorithms\obj\Debug\netcoreapp3.1\algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 3\material-practica3\practica3\algorithms\obj\Debug\netcoreapp3.1\algorithms.csproj.CoreCompileInputs.cache
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 3\material-practica3\practica3\algorithms\obj\Debug\netcoreapp3.1\algorithms.dll
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 3\material-practica3\practica3\algorithms\obj\Debug\netcoreapp3.1\algorithms.pdb
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 3\material-practica3\practica3\algorithms\obj\Debug\netcoreapp3.1\algorithms.genruntimeconfig.cache

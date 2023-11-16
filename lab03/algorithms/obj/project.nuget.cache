@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fQ27kH1k5CG3lzmYUmDk33xM7/p4voDYNdDmMljGbedwpB/wxkp3/2FBRaKrKaXwfA8RKARgTxjWsSUp/aDuwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mayte\\Desktop\\UniOvi\\Tecnologías y Paradigmas de la Programación\\Prácticas\\Práctica 3\\material-practica3\\practica3\\algorithms\\algorithms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mayte\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\mayte\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

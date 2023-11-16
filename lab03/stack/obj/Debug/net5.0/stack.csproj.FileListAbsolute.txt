@@ -1,0 +1,14 @@
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 3\material-practica3\practica3\stack\bin\Debug\net5.0\stack.exe
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 3\material-practica3\practica3\stack\bin\Debug\net5.0\stack.deps.json
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 3\material-practica3\practica3\stack\bin\Debug\net5.0\stack.runtimeconfig.json
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 3\material-practica3\practica3\stack\bin\Debug\net5.0\stack.runtimeconfig.dev.json
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 3\material-practica3\practica3\stack\bin\Debug\net5.0\stack.dll
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 3\material-practica3\practica3\stack\bin\Debug\net5.0\stack.pdb
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 3\material-practica3\practica3\stack\obj\Debug\net5.0\stack.csproj.AssemblyReference.cache
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 3\material-practica3\practica3\stack\obj\Debug\net5.0\stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 3\material-practica3\practica3\stack\obj\Debug\net5.0\stack.csproj.CoreCompileInputs.cache
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 3\material-practica3\practica3\stack\obj\Debug\net5.0\stack.dll
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 3\material-practica3\practica3\stack\obj\Debug\net5.0\refint\stack.dll
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 3\material-practica3\practica3\stack\obj\Debug\net5.0\stack.pdb
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 3\material-practica3\practica3\stack\obj\Debug\net5.0\stack.genruntimeconfig.cache
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 3\material-practica3\practica3\stack\obj\Debug\net5.0\ref\stack.dll
