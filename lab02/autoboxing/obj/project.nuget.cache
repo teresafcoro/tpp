@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2c/7NREwL+0mz4i/vk1fO3IUSltowHyY+IBq63cdeOwT0HTTmjzoWDPpmWE6jUGYYFRWHC/8gu1V6TyqmOpyQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mayte\\Documents\\Tecnologías y Paradigmas de la Programación\\Práctica 2\\lab02\\autoboxing\\autoboxing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mayte\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\mayte\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

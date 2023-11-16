@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oSxESietTgjyGCUsKc3TdqJogEYGV5kH7WoHCgOkC1jtVO/4Jw0cTJ7U2eOOprfG0OGUfN8jHsIxMYMsHxOlAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mayte\\Documents\\Tecnologías y Paradigmas de la Programación\\Práctica 2\\lab02\\extension.methods\\extension.methods.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mayte\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\mayte\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

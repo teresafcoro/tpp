@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/7KK//UkH3gFiQ30stWJfz1My5+A8g2x3SMg5jjkJ1ZviJy6SR7N8Dev4kRYkIWR+Aa9CtDoAWl6mQ36OnEoWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mayte\\Documents\\Tecnologías y Paradigmas de la Programación\\Práctica 2\\lab02\\default.argument.values\\default.argument.values.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mayte\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\mayte\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
