@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ER97M9/zZlW9QkJjSt3jXCBXzbhHRKCvWQEBD9o5+3X+dts1LSgbJBNMdU3rh92+wsXv8J35V1LMkFopyo0uRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mayte\\Documents\\UniOvi\\Tecnologías y Paradigmas de la Programación\\Prácticas\\Práctica 11\\practica11\\images\\images.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mayte\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\mayte\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\mayte\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\mayte\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512",
+    "C:\\Users\\mayte\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
