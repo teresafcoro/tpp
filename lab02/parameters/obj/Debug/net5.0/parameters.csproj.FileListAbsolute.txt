@@ -1,0 +1,32 @@
+C:\Users\mayte\Desktop\lab02\parameters\bin\Debug\net5.0\parameters.exe
+C:\Users\mayte\Desktop\lab02\parameters\bin\Debug\net5.0\parameters.deps.json
+C:\Users\mayte\Desktop\lab02\parameters\bin\Debug\net5.0\parameters.runtimeconfig.json
+C:\Users\mayte\Desktop\lab02\parameters\bin\Debug\net5.0\parameters.runtimeconfig.dev.json
+C:\Users\mayte\Desktop\lab02\parameters\bin\Debug\net5.0\parameters.dll
+C:\Users\mayte\Desktop\lab02\parameters\bin\Debug\net5.0\parameters.pdb
+C:\Users\mayte\Desktop\lab02\parameters\obj\Debug\net5.0\parameters.csproj.AssemblyReference.cache
+C:\Users\mayte\Desktop\lab02\parameters\obj\Debug\net5.0\parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayte\Desktop\lab02\parameters\obj\Debug\net5.0\parameters.AssemblyInfoInputs.cache
+C:\Users\mayte\Desktop\lab02\parameters\obj\Debug\net5.0\parameters.AssemblyInfo.cs
+C:\Users\mayte\Desktop\lab02\parameters\obj\Debug\net5.0\parameters.csproj.CoreCompileInputs.cache
+C:\Users\mayte\Desktop\lab02\parameters\obj\Debug\net5.0\parameters.dll
+C:\Users\mayte\Desktop\lab02\parameters\obj\Debug\net5.0\refint\parameters.dll
+C:\Users\mayte\Desktop\lab02\parameters\obj\Debug\net5.0\parameters.pdb
+C:\Users\mayte\Desktop\lab02\parameters\obj\Debug\net5.0\parameters.genruntimeconfig.cache
+C:\Users\mayte\Desktop\lab02\parameters\obj\Debug\net5.0\ref\parameters.dll
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 2\lab02\parameters\bin\Debug\net5.0\parameters.exe
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 2\lab02\parameters\bin\Debug\net5.0\parameters.deps.json
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 2\lab02\parameters\bin\Debug\net5.0\parameters.runtimeconfig.json
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 2\lab02\parameters\bin\Debug\net5.0\parameters.runtimeconfig.dev.json
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 2\lab02\parameters\bin\Debug\net5.0\parameters.dll
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 2\lab02\parameters\bin\Debug\net5.0\parameters.pdb
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 2\lab02\parameters\obj\Debug\net5.0\parameters.csproj.AssemblyReference.cache
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 2\lab02\parameters\obj\Debug\net5.0\parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 2\lab02\parameters\obj\Debug\net5.0\parameters.AssemblyInfoInputs.cache
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 2\lab02\parameters\obj\Debug\net5.0\parameters.AssemblyInfo.cs
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 2\lab02\parameters\obj\Debug\net5.0\parameters.csproj.CoreCompileInputs.cache
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 2\lab02\parameters\obj\Debug\net5.0\parameters.dll
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 2\lab02\parameters\obj\Debug\net5.0\refint\parameters.dll
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 2\lab02\parameters\obj\Debug\net5.0\parameters.pdb
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 2\lab02\parameters\obj\Debug\net5.0\parameters.genruntimeconfig.cache
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 2\lab02\parameters\obj\Debug\net5.0\ref\parameters.dll
