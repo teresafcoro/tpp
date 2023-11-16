@@ -1,0 +1,15 @@
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\list\master-worker\bin\Debug\net5.0\master-worker.deps.json
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\list\master-worker\bin\Debug\net5.0\master-worker.dll
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\list\master-worker\bin\Debug\net5.0\master-worker.pdb
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\list\master-worker\bin\Debug\net5.0\list.dll
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\list\master-worker\bin\Debug\net5.0\list.pdb
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\list\master-worker\obj\Debug\net5.0\master-worker.csproj.AssemblyReference.cache
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\list\master-worker\obj\Debug\net5.0\master-worker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\list\master-worker\obj\Debug\net5.0\master-worker.AssemblyInfoInputs.cache
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\list\master-worker\obj\Debug\net5.0\master-worker.AssemblyInfo.cs
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\list\master-worker\obj\Debug\net5.0\master-worker.csproj.CoreCompileInputs.cache
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\list\master-worker\obj\Debug\net5.0\master-worker.csproj.CopyComplete
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\list\master-worker\obj\Debug\net5.0\master-worker.dll
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\list\master-worker\obj\Debug\net5.0\refint\master-worker.dll
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\list\master-worker\obj\Debug\net5.0\master-worker.pdb
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\list\master-worker\obj\Debug\net5.0\ref\master-worker.dll
