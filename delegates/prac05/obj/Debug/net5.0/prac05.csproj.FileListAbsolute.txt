@@ -1,0 +1,16 @@
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 5\delegates\prac05\obj\Debug\net5.0\prac05.csproj.AssemblyReference.cache
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 5\delegates\prac05\obj\Debug\net5.0\prac05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 5\delegates\prac05\obj\Debug\net5.0\prac05.AssemblyInfoInputs.cache
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 5\delegates\prac05\obj\Debug\net5.0\prac05.AssemblyInfo.cs
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 5\delegates\prac05\obj\Debug\net5.0\prac05.csproj.CoreCompileInputs.cache
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 5\delegates\prac05\bin\Debug\net5.0\prac05.exe
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 5\delegates\prac05\bin\Debug\net5.0\prac05.deps.json
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 5\delegates\prac05\bin\Debug\net5.0\prac05.runtimeconfig.json
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 5\delegates\prac05\bin\Debug\net5.0\prac05.runtimeconfig.dev.json
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 5\delegates\prac05\bin\Debug\net5.0\prac05.dll
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 5\delegates\prac05\bin\Debug\net5.0\prac05.pdb
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 5\delegates\prac05\obj\Debug\net5.0\prac05.dll
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 5\delegates\prac05\obj\Debug\net5.0\refint\prac05.dll
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 5\delegates\prac05\obj\Debug\net5.0\prac05.pdb
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 5\delegates\prac05\obj\Debug\net5.0\prac05.genruntimeconfig.cache
+C:\Users\mayte\Desktop\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 5\delegates\prac05\obj\Debug\net5.0\ref\prac05.dll
