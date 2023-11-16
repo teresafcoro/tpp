@@ -1,0 +1,14 @@
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\practica10\colors\bin\Debug\net5.0\colors.exe
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\practica10\colors\bin\Debug\net5.0\colors.deps.json
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\practica10\colors\bin\Debug\net5.0\colors.runtimeconfig.json
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\practica10\colors\bin\Debug\net5.0\colors.runtimeconfig.dev.json
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\practica10\colors\bin\Debug\net5.0\colors.dll
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\practica10\colors\bin\Debug\net5.0\colors.pdb
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\practica10\colors\obj\Debug\net5.0\colors.csproj.AssemblyReference.cache
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\practica10\colors\obj\Debug\net5.0\colors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\practica10\colors\obj\Debug\net5.0\colors.csproj.CoreCompileInputs.cache
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\practica10\colors\obj\Debug\net5.0\colors.dll
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\practica10\colors\obj\Debug\net5.0\refint\colors.dll
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\practica10\colors\obj\Debug\net5.0\colors.pdb
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\practica10\colors\obj\Debug\net5.0\colors.genruntimeconfig.cache
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\practica10\colors\obj\Debug\net5.0\ref\colors.dll

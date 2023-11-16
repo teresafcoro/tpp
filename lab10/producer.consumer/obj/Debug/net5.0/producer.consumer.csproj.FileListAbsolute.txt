@@ -1,0 +1,15 @@
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\practica10\producer.consumer\bin\Debug\net5.0\producer.consumer.exe
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\practica10\producer.consumer\bin\Debug\net5.0\producer.consumer.dll.config
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\practica10\producer.consumer\bin\Debug\net5.0\producer.consumer.deps.json
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\practica10\producer.consumer\bin\Debug\net5.0\producer.consumer.runtimeconfig.json
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\practica10\producer.consumer\bin\Debug\net5.0\producer.consumer.runtimeconfig.dev.json
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\practica10\producer.consumer\bin\Debug\net5.0\producer.consumer.dll
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\practica10\producer.consumer\bin\Debug\net5.0\producer.consumer.pdb
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\practica10\producer.consumer\obj\Debug\net5.0\producer.consumer.csproj.AssemblyReference.cache
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\practica10\producer.consumer\obj\Debug\net5.0\producer.consumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\practica10\producer.consumer\obj\Debug\net5.0\producer.consumer.csproj.CoreCompileInputs.cache
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\practica10\producer.consumer\obj\Debug\net5.0\producer.consumer.dll
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\practica10\producer.consumer\obj\Debug\net5.0\refint\producer.consumer.dll
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\practica10\producer.consumer\obj\Debug\net5.0\producer.consumer.pdb
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\practica10\producer.consumer\obj\Debug\net5.0\producer.consumer.genruntimeconfig.cache
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\practica10\producer.consumer\obj\Debug\net5.0\ref\producer.consumer.dll

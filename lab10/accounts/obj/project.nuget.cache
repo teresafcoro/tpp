@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "izpibgRloxenjlZ/5yB9WK3X46XGUf8doBfVUeO140XbNm+TrB7+ltdWpDi0R1wrU3c3Cf5V7gC49VHwsaHVhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mayte\\Documents\\UniOvi\\Tecnologías y Paradigmas de la Programación\\Prácticas\\Práctica 10\\practica10\\accounts\\accounts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mayte\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\mayte\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\practica10\summation\bin\Debug\net5.0\summation.exe
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\practica10\summation\bin\Debug\net5.0\summation.deps.json
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\practica10\summation\bin\Debug\net5.0\summation.runtimeconfig.json
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\practica10\summation\bin\Debug\net5.0\summation.runtimeconfig.dev.json
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\practica10\summation\bin\Debug\net5.0\summation.dll
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\practica10\summation\bin\Debug\net5.0\summation.pdb
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\practica10\summation\obj\Debug\net5.0\summation.csproj.AssemblyReference.cache
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\practica10\summation\obj\Debug\net5.0\summation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\practica10\summation\obj\Debug\net5.0\summation.csproj.CoreCompileInputs.cache
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\practica10\summation\obj\Debug\net5.0\summation.dll
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\practica10\summation\obj\Debug\net5.0\refint\summation.dll
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\practica10\summation\obj\Debug\net5.0\summation.pdb
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\practica10\summation\obj\Debug\net5.0\summation.genruntimeconfig.cache
+C:\Users\mayte\Documents\UniOvi\Tecnologías y Paradigmas de la Programación\Prácticas\Práctica 10\practica10\summation\obj\Debug\net5.0\ref\summation.dll
